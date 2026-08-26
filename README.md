@@ -4,7 +4,7 @@ Hi there! I'm Alberto, a Frontend Developer and Designer passionate about buildi
 
 🔗 **Live Website:** [https://bto1790.github.io/](https://bto1790.github.io/)
 
-🔗 **Video:** [https://app.screencastify.com/watch/5VSd7Hc4MZVgVkqP33wu](link)
+🔗 **Video:** [Watch Demo](https://app.screencastify.com/watch/5VSd7Hc4MZVgVkqP33wu)
 
 ---
 
